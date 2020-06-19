@@ -6,7 +6,7 @@ This repository is used to store my learning summaries.It has some branches.If y
 
 ## getintoJS
 
-- getintoJSsyummary
+- getintoJSsummary
 - ExerciseCode
 - README
 
